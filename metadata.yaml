@@ -1,0 +1,33 @@
+_repo: The-Author-s-Printing-and-Publishing-AssistantComprising-Explanations-of-the-Process-of-Print__31006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saunders, Frederick
+    alias: Saunders, Frederic
+    birthdate: 1807
+    deathdate: 1902
+    gutenberg_agent_id: '34956'
+    url: http://www.gutenberg.org/2009/agents/34956
+description: ''
+gutenberg_issued: '2010-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship -- Style manuals'
+- !lcsh 'Printing -- Style manuals'
+- !lcc 'Z'
+title: 'The Author''s Printing and Publishing Assistant
+
+  Comprising Explanations of the Process of Printing; Preparation and Calculation
+  of Manuscripts; Choice of Paper, Type, Binding, Illustrations, Publishing, Advertising,
+  &c.; with an Exemplification and Description of the Typographical Marks Used in
+  the Correction of the Press'
+url: http://www.gutenberg.org/ebooks/31006
